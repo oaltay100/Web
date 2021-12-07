@@ -7788,3 +7788,246 @@ section.content > .s-DataGrid {
   padding: 2px 4px;
   border: 1px solid #a3b2d2;
 }
+.s-Lab-LaboratoryDialog > .size {
+  width: 650px;
+}
+.s-Lab-LaboratoryDialog .caption {
+  width: 150px;
+}
+.s-Lab-DoctorDialog > .size {
+  width: 650px;
+}
+.s-Lab-DoctorDialog .caption {
+  width: 150px;
+}
+.s-Lab-TemplateDialog > .size {
+  width: 650px;
+}
+.s-Lab-TemplateDialog .caption {
+  width: 150px;
+}
+.s-Lab-ReportDialog > .size {
+  width: 650px;
+}
+.s-Lab-ReportDialog .caption {
+  width: 150px;
+}
+.s-Lab-UserLaboratoryDialog > .size {
+  width: 650px;
+}
+.s-Lab-UserLaboratoryDialog .caption {
+  width: 150px;
+}
+.s-Lab-MaterialDialog > .size {
+  width: 650px;
+}
+.s-Lab-MaterialDialog .caption {
+  width: 150px;
+}
+.s-Lab-TubeDialog > .size {
+  width: 650px;
+}
+.s-Lab-TubeDialog .caption {
+  width: 150px;
+}
+.s-Lab-UnitDialog > .size {
+  width: 650px;
+}
+.s-Lab-UnitDialog .caption {
+  width: 150px;
+}
+.s-Lab-SutDialog > .size {
+  width: 650px;
+}
+.s-Lab-SutDialog .caption {
+  width: 150px;
+}
+.s-Lab-AssayDialog > .size {
+  width: 650px;
+}
+.s-Lab-AssayDialog .caption {
+  width: 150px;
+}
+.s-Lab-AssayResultDialog > .size {
+  width: 650px;
+}
+.s-Lab-AssayResultDialog .caption {
+  width: 150px;
+}
+.s-Lab-LekDialog > .size {
+  width: 650px;
+}
+.s-Lab-LekDialog .caption {
+  width: 150px;
+}
+.s-Lab-DeviceDialog > .size {
+  width: 650px;
+}
+.s-Lab-DeviceDialog .caption {
+  width: 150px;
+}
+.s-Lab-CodeDialog > .size {
+  width: 650px;
+}
+.s-Lab-CodeDialog .caption {
+  width: 150px;
+}
+.s-Lab-LevelsDialog > .size {
+  width: 650px;
+}
+.s-Lab-LevelsDialog .caption {
+  width: 150px;
+}
+.s-Lab-ControlDialog > .size {
+  width: 650px;
+}
+.s-Lab-ControlDialog .caption {
+  width: 150px;
+}
+.s-Lab-ReferenceDialog > .size {
+  width: 650px;
+}
+.s-Lab-ReferenceDialog .caption {
+  width: 150px;
+}
+.s-Lab-DescriptionDialog > .size {
+  width: 650px;
+}
+.s-Lab-DescriptionDialog .caption {
+  width: 150px;
+}
+.s-Lab-IndustryDialog > .size {
+  width: 650px;
+}
+.s-Lab-IndustryDialog .caption {
+  width: 150px;
+}
+.s-Lab-InstitutionDialog > .size {
+  width: 650px;
+}
+.s-Lab-InstitutionDialog .caption {
+  width: 150px;
+}
+.s-Lab-InstitutionDoctorDialog > .size {
+  width: 650px;
+}
+.s-Lab-InstitutionDoctorDialog .caption {
+  width: 150px;
+}
+.s-Lab-UserInstitutionDialog > .size {
+  width: 650px;
+}
+.s-Lab-UserInstitutionDialog .caption {
+  width: 150px;
+}
+.s-Lab-InstitutionPanelDialog > .size {
+  width: 650px;
+}
+.s-Lab-InstitutionPanelDialog .caption {
+  width: 150px;
+}
+.s-Lab-InstitutionPanelAssayDialog > .size {
+  width: 650px;
+}
+.s-Lab-InstitutionPanelAssayDialog .caption {
+  width: 150px;
+}
+.s-Lab-UserUnitDialog > .size {
+  width: 650px;
+}
+.s-Lab-UserUnitDialog .caption {
+  width: 150px;
+}
+.s-Lab-PanelDialog > .size {
+  width: 650px;
+}
+.s-Lab-PanelDialog .caption {
+  width: 150px;
+}
+.s-Lab-PanelAssayDialog > .size {
+  width: 650px;
+}
+.s-Lab-PanelAssayDialog .caption {
+  width: 150px;
+}
+.s-Lab-PatientDialog > .size {
+  width: 650px;
+}
+.s-Lab-PatientDialog .caption {
+  width: 150px;
+}
+.s-Lab-InvoiceDialog > .size {
+  width: 650px;
+}
+.s-Lab-InvoiceDialog .caption {
+  width: 150px;
+}
+.s-Lab-ClaimDialog > .size {
+  width: 650px;
+}
+.s-Lab-ClaimDialog .caption {
+  width: 150px;
+}
+.s-Lab-SampleDialog > .size {
+  width: 650px;
+}
+.s-Lab-SampleDialog .caption {
+  width: 150px;
+}
+.s-Lab-DetailDialog > .size {
+  width: 650px;
+}
+.s-Lab-DetailDialog .caption {
+  width: 150px;
+}
+.s-Lab-ChangeDialog > .size {
+  width: 650px;
+}
+.s-Lab-ChangeDialog .caption {
+  width: 150px;
+}
+.s-Lab-ImageDialog > .size {
+  width: 650px;
+}
+.s-Lab-ImageDialog .caption {
+  width: 150px;
+}
+.s-Lab-BacteriumDialog > .size {
+  width: 650px;
+}
+.s-Lab-BacteriumDialog .caption {
+  width: 150px;
+}
+.s-Lab-AntibiogramDialog > .size {
+  width: 650px;
+}
+.s-Lab-AntibiogramDialog .caption {
+  width: 150px;
+}
+.s-Lab-AcceptDialog > .size {
+  width: 650px;
+}
+.s-Lab-AcceptDialog .caption {
+  width: 150px;
+}
+.s-Lab-NotificationDialog > .size {
+  width: 650px;
+}
+.s-Lab-NotificationDialog .caption {
+  width: 150px;
+}
+.IdLabel {
+  display: inline-block;
+  min-width: 10px;
+  padding: 5px 10px;
+  font-size: 10px;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border-radius: 5px;
+}
+.myGrid-container {
+  padding-right: 5px !important;
+  padding-left: 0px !important;
+}

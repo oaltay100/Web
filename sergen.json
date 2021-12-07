@@ -1,4 +1,4 @@
-﻿{
+{
   "RootNamespace": "LBYS",
   "ServerTypings": {
     "LocalTexts": true
@@ -8,6 +8,253 @@
       "/wwwroot/Scripts/serenity/Serenity.CoreLib*.*"
     ]
   },
+  "Connections": [
+    {
+      "Key": "Default",
+      "Tables": [
+        {
+          "Tablename": "dbo.Accept",
+          "Identifier": "Accept",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Antibiogram",
+          "Identifier": "Antibiogram",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Assay",
+          "Identifier": "Assay",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.AssayResult",
+          "Identifier": "AssayResult",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Bacterium",
+          "Identifier": "Bacterium",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Change",
+          "Identifier": "Change",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Claim",
+          "Identifier": "Claim",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Code",
+          "Identifier": "Code",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Control",
+          "Identifier": "Control",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Description",
+          "Identifier": "Description",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Detail",
+          "Identifier": "Detail",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Device",
+          "Identifier": "Device",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Doctor",
+          "Identifier": "Doctor",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Image",
+          "Identifier": "Image",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Industry",
+          "Identifier": "Industry",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Institution",
+          "Identifier": "Institution",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.InstitutionDoctor",
+          "Identifier": "InstitutionDoctor",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.InstitutionPanel",
+          "Identifier": "InstitutionPanel",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.InstitutionPanelAssay",
+          "Identifier": "InstitutionPanelAssay",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Invoice",
+          "Identifier": "Invoice",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Laboratory",
+          "Identifier": "Laboratory",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Lek",
+          "Identifier": "Lek",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Levels",
+          "Identifier": "Levels",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Material",
+          "Identifier": "Material",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Notification",
+          "Identifier": "Notification",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Panel",
+          "Identifier": "Panel",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.PanelAssay",
+          "Identifier": "PanelAssay",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Patient",
+          "Identifier": "Patient",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Reference",
+          "Identifier": "Reference",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Report",
+          "Identifier": "Report",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Sample",
+          "Identifier": "Sample",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Sut",
+          "Identifier": "Sut",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Template",
+          "Identifier": "Template",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Tube",
+          "Identifier": "Tube",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.Unit",
+          "Identifier": "Unit",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.UserInstitution",
+          "Identifier": "UserInstitution",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.UserLaboratory",
+          "Identifier": "UserLaboratory",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        },
+        {
+          "Tablename": "dbo.UserUnit",
+          "Identifier": "UserUnit",
+          "Module": "Lab",
+          "PermissionKey": "?"
+        }
+      ]
+    }
+  ],
+  "BaseRowClasses": [
+    {
+      "ClassName": "BaseRow",
+      "Fields": [
+        "InsertUserId",
+        "InsertDate",
+        "UpdateUserId",
+        "UpdateDate",
+        "IsActive"
+      ]
+    }
+  ],
   "UpgradeInfo": {
     "InitialType": "Community",
     "InitialVersion": "5.0.51.8"

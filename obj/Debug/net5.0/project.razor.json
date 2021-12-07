@@ -15619,8 +15619,18 @@
   "RootNamespace": "LBYS.Web",
   "Documents": [
     {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Image\\ImageIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Image\\ImageIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LBYS\\Web\\Views\\Shared\\_LayoutNoNavigation.cshtml",
       "TargetPath": "Views\\Shared\\_LayoutNoNavigation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Template\\TemplateIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Template\\TemplateIndex.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15629,8 +15639,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Tube\\TubeIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Tube\\TubeIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Levels\\LevelsIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Levels\\LevelsIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LBYS\\Web\\Modules\\Membership\\Account\\ChangePassword\\AccountChangePassword.cshtml",
       "TargetPath": "Modules\\Membership\\Account\\ChangePassword\\AccountChangePassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Accept\\AcceptIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Accept\\AcceptIndex.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15639,8 +15664,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Reference\\ReferenceIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Reference\\ReferenceIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LBYS\\Web\\Modules\\_ViewStart.cshtml",
       "TargetPath": "Modules\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Panel\\PanelIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Panel\\PanelIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Report\\ReportIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Report\\ReportIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\InstitutionDoctor\\InstitutionDoctorIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\InstitutionDoctor\\InstitutionDoctorIndex.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15664,8 +15709,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Invoice\\InvoiceIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Invoice\\InvoiceIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LBYS\\Web\\Views\\Shared\\_LayoutSlim.cshtml",
       "TargetPath": "Views\\Shared\\_LayoutSlim.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Laboratory\\LaboratoryIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Laboratory\\LaboratoryIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Change\\ChangeIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Change\\ChangeIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Assay\\AssayIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Assay\\AssayIndex.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15689,13 +15754,63 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Antibiogram\\AntibiogramIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Antibiogram\\AntibiogramIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Code\\CodeIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Code\\CodeIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\UserInstitution\\UserInstitutionIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\UserInstitution\\UserInstitutionIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Lek\\LekIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Lek\\LekIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\UserUnit\\UserUnitIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\UserUnit\\UserUnitIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Material\\MaterialIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Material\\MaterialIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LBYS\\Web\\Modules\\Membership\\Account\\AccountLogin.cshtml",
       "TargetPath": "Modules\\Membership\\Account\\AccountLogin.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Claim\\ClaimIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Claim\\ClaimIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LBYS\\Web\\Modules\\Membership\\Account\\SignUp\\AccountSignUp.cshtml",
       "TargetPath": "Modules\\Membership\\Account\\SignUp\\AccountSignUp.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Institution\\InstitutionIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Institution\\InstitutionIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Sut\\SutIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Sut\\SutIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Control\\ControlIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Control\\ControlIndex.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15709,8 +15824,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Industry\\IndustryIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Industry\\IndustryIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LBYS\\Web\\Modules\\Membership\\Account\\ResetPassword\\AccountResetPasswordEmail.cshtml",
       "TargetPath": "Modules\\Membership\\Account\\ResetPassword\\AccountResetPasswordEmail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Detail\\DetailIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Detail\\DetailIndex.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15719,8 +15844,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\UserLaboratory\\UserLaboratoryIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\UserLaboratory\\UserLaboratoryIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Sample\\SampleIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Sample\\SampleIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LBYS\\Web\\Modules\\Membership\\Account\\ResetPassword\\AccountResetPassword.AdminLTE.cshtml",
       "TargetPath": "Modules\\Membership\\Account\\ResetPassword\\AccountResetPassword.AdminLTE.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Unit\\UnitIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Unit\\UnitIndex.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15749,8 +15889,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\AssayResult\\AssayResultIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\AssayResult\\AssayResultIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Doctor\\DoctorIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Doctor\\DoctorIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\PanelAssay\\PanelAssayIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\PanelAssay\\PanelAssayIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Bacterium\\BacteriumIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Bacterium\\BacteriumIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LBYS\\Web\\Views\\Errors\\ValidationError.cshtml",
       "TargetPath": "Views\\Errors\\ValidationError.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Description\\DescriptionIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Description\\DescriptionIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Notification\\NotificationIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Notification\\NotificationIndex.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15759,8 +15929,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Patient\\PatientIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Patient\\PatientIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\InstitutionPanel\\InstitutionPanelIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\InstitutionPanel\\InstitutionPanelIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LBYS\\Web\\Modules\\Membership\\_ViewStart.cshtml",
       "TargetPath": "Modules\\Membership\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\InstitutionPanelAssay\\InstitutionPanelAssayIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\InstitutionPanelAssay\\InstitutionPanelAssayIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LBYS\\Web\\Modules\\Lab\\Device\\DeviceIndex.cshtml",
+      "TargetPath": "Modules\\Lab\\Device\\DeviceIndex.cshtml",
       "FileKind": "mvc"
     },
     {
